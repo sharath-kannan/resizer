@@ -1,2 +1,4 @@
-# resizer
-script to resize assets(images and videos) to a required height and width.
+run "npm install".
+copy the required assets into the assets folder.
+run "node resizer.js widthxheight" example: node resizer.js 378x212.
+find the resized assets in resized folder.
